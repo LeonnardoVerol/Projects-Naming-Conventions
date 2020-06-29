@@ -1,4 +1,4 @@
-# Naming Projects
+# Projects Naming Conventions
 
 This is about helping organizing projects
 

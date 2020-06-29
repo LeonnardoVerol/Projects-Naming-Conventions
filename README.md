@@ -4,7 +4,7 @@ This is about helping organizing projects
 
 ## Format
 
-<Category?/Type?>-<Name?>-<Language_name?/framework_name?>
+`<Category?/Type?>-<Name?>-<Language_name?/framework_name?>`
 
 - The order can be changed
 - `?` Means "Optional"
@@ -26,6 +26,7 @@ This is about helping organizing projects
 - Template/Boilerplate
 - Awesome
 - Cheatsheet
+- Book
 
 ## Categories
 

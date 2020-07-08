@@ -35,7 +35,7 @@ This is about helping organizing projects
 - Sample
 - Tutorial
 - Checklist
-- GUI
+- GUI / UI
 
 ## Examples
 
@@ -43,3 +43,5 @@ This is about helping organizing projects
 - PySimpleGUI
 - express-status-monitor
 - react-router
+- koa2-swagger-ui
+- babel-eslint
